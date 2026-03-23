@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "protocol": "http",
+    "username": null,
+    "password": null,
+    "host": "138.68.60.8",
+    "port": 80,
+    "timeout": 1.01,
+    "exit_ip": "138.68.60.8",
+    "asn": null,
+    "geolocation": null
+  },
+  {
+    "protocol": "socks5",
+    "username": null,
+    "password": null,
+    "host": "172.86.126.35",
+    "port": 443,
+    "timeout": 1.25,
+    "exit_ip": "172.86.126.35",
+    "asn": null,
+    "geolocation": null
+  },
+  {
+    "protocol": "http",
+    "username": null,
+    "password": null,
+    "host": "35.225.22.61",
+    "port": 80,
+    "timeout": 1.43,
+    "exit_ip": "35.225.22.61",
+    "asn": null,
+    "geolocation": null
+  }
+]
